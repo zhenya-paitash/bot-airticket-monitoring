@@ -1,0 +1,16 @@
+module.exports = {
+  START: '/start',
+  HELP: '/help',
+  ABOUT: '/about',
+  MENU_CMD: '/menu',
+  SEARCH: '/search',
+
+  MENU: 'MENU',
+  CANCEL_FLIGHT: 'CANCEL_FLIGHT',
+  SCHEDULE: 'SCHEDULE',
+  DASHBOARD: 'DASHBOARD',
+  NOTIFICATION: 'NOTIFICATION',
+  ADD_FLIGHT: 'ADD_FLIGHT',
+  ADD_DATE: 'ADD_DATE',
+  ADD_PRICE: 'ADD_PRICE',
+}

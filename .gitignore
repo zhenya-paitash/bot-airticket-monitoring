@@ -1,0 +1,10 @@
+/node_modules
+/skyscanner
+/.cache
+/.idea
+/.vscode
+
+# *.rar
+/test
+
+.env
